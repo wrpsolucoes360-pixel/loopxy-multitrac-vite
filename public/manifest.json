@@ -1,0 +1,21 @@
+{
+  "name": "MultiTrack Player",
+  "short_name": "MultiTrack",
+  "description": "A web-based multi-track audio player for live performance backing tracks, inspired by professional DAW software.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0D1117",
+  "theme_color": "#0D1117",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
